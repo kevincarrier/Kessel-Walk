@@ -1,0 +1,74 @@
+html, body{
+    font-family: 'Space Mono', monospace;
+    color: #FFFFFF;
+    background-image: url("../images/kr-af.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mainNavDiv{
+    background-color: #06263B;
+    padding: 20px;
+}
+#mainNav{
+    padding: 20px;
+}
+#announcements{
+    background-color: #2EC5E0;
+    padding:5px;
+    color: #000000;
+    text-align: center;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+}
+.kesselButton{
+    background-color: #95F7BD;
+    color: #000000;
+}
+a {
+    color: #FFFFFF !important;
+}
+.active a {
+    color: #2EC5E0 !important;
+    border-bottom: 1px solid #2EC5E0;
+}
+a:hover {
+    color: #2EC5E0 !important;
+    text-decoration : none;
+}
+.kesselSection{   
+    border: 2px solid #2EC5E0;
+    padding: 20px;
+}
+#deliverCombat{
+    text-align: center;
+}
+#podcasts{
+    font-size: 10px;
+}
+.footerHR{
+    border-top: 1px solid gray;
+}
+.latestNewsHR{
+    border-top: 1px solid #2EC5E0;
+}
+.card-body{
+    background-color: #187087;
+}
+#jointheallianceText {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  background-color: #2EC5E0;
+  color: black;
+  padding: 5px;
+}
+#jointheallianceContainer{
+     position: relative;
+}
+.tabLink{
+color: #2EC5E0 !important;
+}
